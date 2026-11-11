@@ -1,0 +1,9 @@
+{
+  "name": "folder-history",
+  "displayName": "Folder & Subfolder History Manager",
+  "version": "1.0.0",
+  "description": "Inspecte et conserve l'historique d'un dossier et de ses sous-dossiers (Git, notes de projet, décisions d'architecture) entre les sessions Antigravity.",
+  "author": "Racem-H-coder",
+  "repository": "https://github.com/Racem-H-coder/antigravity-folder-history"
+}
+
